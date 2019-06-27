@@ -3,12 +3,17 @@ Build a template to development npm package
 
 # Install
 ```
-npm install -g better-lib-cli
+npm install better-lib-cli [-g]
+```
+
+# Check
+```
+blib --version
 ```
 
 # Build
 ```
-npm init <name> // for example, npm init myProject
+blib init <name> // for example, blib init myProject
 ```
 
 # Features
