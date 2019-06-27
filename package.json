@@ -22,5 +22,9 @@
   "devDependencies": {},
   "bin": {
     "blib": "./bin/index.js"
-  }
+  },
+  "keywords": [
+    "rollup",
+    "template"
+  ]
 }
